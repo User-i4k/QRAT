@@ -1,0 +1,13 @@
+# Çalıştırılabilir dosyalar
+*.exe
+*.bin
+*.out
+
+# Derleme dosyaları
+*.o
+*.obj
+
+# Yerel klasörler
+downloads/
+screenshots/
+temp/
